@@ -9,6 +9,9 @@ def my_hash
 end
 
 def pioneer
+  new_hash_2 = {
+    name:"Grace Hopper"
+  }
   
 end
 
