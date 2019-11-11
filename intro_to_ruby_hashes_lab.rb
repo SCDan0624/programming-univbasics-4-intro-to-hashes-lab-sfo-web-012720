@@ -1,4 +1,3 @@
-clear
 def new_hash
   {}
 end
