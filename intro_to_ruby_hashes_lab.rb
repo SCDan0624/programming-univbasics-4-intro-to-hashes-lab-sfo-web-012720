@@ -12,7 +12,6 @@ def pioneer
   new_hash_2 = {
     name:"Grace Hopper"
   }
-  
 end
 
 def id_generator
